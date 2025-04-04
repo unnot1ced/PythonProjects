@@ -1,5 +1,8 @@
 # PyQt5 Digital Clock
 
+![Banner](https://img.freepik.com/premium-vector/panoramic-banner-with-digital-clock-numbers-2022-blue-background-with-text_223622-1631.jpg)
+
+
 This is a simple **digital clock** built using **PyQt5**. It displays the current time and updates every second.  
 The clock features a **custom font**, **customizable size**, and **color scheme**.
 
