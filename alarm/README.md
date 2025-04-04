@@ -1,5 +1,7 @@
 # Python Alarm Clock
 
+![Alarm banner](https://elevatedeffect.com/wp-content/uploads/2019/03/Hand-holding-tiny-alarm-clock-banner.jpg)
+
 ## Introduction
 This is a simple Python alarm clock that allows you to set an alarm by entering the time in `HH:MM:SS` format. When the specified time is reached, an alarm sound will play.
 
